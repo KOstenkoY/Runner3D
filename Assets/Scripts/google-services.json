@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076579450117",
+    "firebase_url": "https://testrunner-7488d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testrunner-7488d",
+    "storage_bucket": "testrunner-7488d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076579450117:android:64b6b6aa488dd54e678b6c",
+        "android_client_info": {
+          "package_name": "com.Zhenya.Runner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076579450117-p1e7t5iokbqgdkprirjj18e85hh5d89h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0KDYAX2Ra69tC3Kn77q_dMYFwIl_ZfbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076579450117-p1e7t5iokbqgdkprirjj18e85hh5d89h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
